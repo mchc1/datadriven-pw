@@ -1,0 +1,11 @@
+# Playwright artifacts
+test-results/
+playwright-report/
+videos/
+screenshots/
+
+# Env files
+.env
+
+# Node Modules
+node_modules/
